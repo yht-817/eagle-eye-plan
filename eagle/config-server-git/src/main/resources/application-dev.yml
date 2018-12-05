@@ -1,0 +1,12 @@
+server:
+  port: 1201
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/yuehongting/config/
+          username: yuehongting
+          password: yue1341945817
