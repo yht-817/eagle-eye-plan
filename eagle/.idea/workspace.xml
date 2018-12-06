@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bca4493b-a4ce-4c47-a9be-a8e89e9a8430" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eagle-ftp/src/main/java/com/yht/ftp/eagleftp/config/FtpOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eagle-ftp/src/main/java/com/yht/ftp/eagleftp/config/FtpULinkTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eagle-ftp/src/main/java/com/yht/ftp/eagleftp/web/WebApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eagle-ftp/src/main/resources/ftp.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eagle-ftp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eagle-ftp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eagle-ftp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eagle-ftp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eagle-ftp/src/main/java/com/yht/ftp/eagleftp/config/FtpOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/eagle-ftp/src/main/java/com/yht/ftp/eagleftp/config/FtpOperation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,7 +57,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="936" />
+          <entry key="java" value="937" />
           <entry key="properties" value="258" />
           <entry key="xml" value="94" />
           <entry key="yml" value="222" />
@@ -74,7 +65,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="936" />
+          <entry key="JAVA" value="937" />
           <entry key="Properties" value="258" />
           <entry key="XML" value="94" />
           <entry key="YAML" value="222" />
@@ -119,8 +110,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eagle-ftp/src/main/java/com/yht/ftp/eagleftp/config/FtpOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-99">
-              <caret line="16" column="86" lean-forward="true" selection-start-line="16" selection-start-column="86" selection-end-line="16" selection-end-column="86" />
+            <state relative-caret-position="311">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -223,7 +214,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-65" />
     <option name="y" value="79" />
     <option name="width" value="1932" />
@@ -313,7 +304,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544084749615" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544085578876" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="E:/work/gokong-manage" />
@@ -466,15 +457,15 @@
       <workItem from="1543889920723" duration="4980000" />
       <workItem from="1543894957184" duration="16176000" />
       <workItem from="1543990226631" duration="1284000" />
-      <workItem from="1544061827425" duration="9099000" />
+      <workItem from="1544061827425" duration="9809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38971000" />
+    <option name="totallyTimeSpent" value="39681000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.26226014" />
@@ -487,7 +478,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37458193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20512821" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -839,8 +830,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eagle-ftp/src/main/java/com/yht/ftp/eagleftp/config/FtpOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-99">
-          <caret line="16" column="86" lean-forward="true" selection-start-line="16" selection-start-column="86" selection-end-line="16" selection-end-column="86" />
+        <state relative-caret-position="311">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

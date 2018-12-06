@@ -40,7 +40,6 @@ public class FtpOperation {
             } else {
                 StaticLog.error("切换目录失败");
             }
-
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
