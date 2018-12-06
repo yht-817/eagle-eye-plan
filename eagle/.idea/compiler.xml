@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-server-git" />
         <module name="eagle-ftp" />
+        <module name="eagle-message" />
         <module name="eagle-pay" />
         <module name="eureka-client" />
         <module name="eureka-consumer" />
